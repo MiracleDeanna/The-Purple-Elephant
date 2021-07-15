@@ -76,11 +76,7 @@ h1 {
   width: auto;
   height: 500px;
   padding: 50px;
-  filter: drop-shadow(5px 5px 5px #545454);
-}
-
-.product-heading {
-  text-align: left;
+  filter: drop-shadow(0 0 0.75rem #ffed59);
 }
 
 /* Features */
